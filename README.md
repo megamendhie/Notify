@@ -12,4 +12,4 @@ Firebase Cloud Messaging (FCM) allows you to send push notifications directly fr
 - Firebase account (sign up here)  
 - Basic knowledge of Android development
 
-Read the full article [here]([https://medium.com/@mendhieemmanuel/send-device-to-device-push-notifications-without-server-side-code-238611c143](https://medium.com/@mendhieemmanuel/send-device-to-device-push-notifications-without-server-side-code-238611c143))
+Read the full article [here](https://medium.com/@mendhieemmanuel/send-device-to-device-push-notifications-without-server-side-code-238611c143)
